@@ -12,13 +12,6 @@ import (
 var database string = "flycoin"
 var comb string = "username:password@tcp(127.0.0.1:3306)/"+database
 
-
-type Kurac struct{
-	
-	velicina int 
-	ime string
-
-}
 type Tag struct{
 	amount float64  `"json:amount"`
 	hash string `"json:hash"`
