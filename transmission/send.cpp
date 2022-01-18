@@ -185,6 +185,10 @@ int main(int argc , char *argv[]){
 		z<<amount;
 		float amoun;
 		z>>amoun;
+		if(amoun <=0){
+                        cout<<"Cannot send money in negative."<<endl;
+                        exit(1);
+                }
 
 
 		float calculated = curr -amoun;
