@@ -20,7 +20,7 @@
 #include <regex>
 #include "access.hpp"
 #define PORT "9701"
-#define IP "192.168.0.18"
+#define IP "178.148.206.252" // IP address of the main server branch
 using namespace std;
 //implement access.hpp function !!
 string convertBack(string s){
