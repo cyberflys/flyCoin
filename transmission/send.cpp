@@ -1,9 +1,11 @@
 /*
  *
- *		flyCoin Transmission 
+ *		flyCoin Wallet Module 1
+ 			Send money module
+			
  *			by suibex	
  *
- *			10 Jan 21.
+ *			18 Jan 21.
  *				http://cyfly.rs
  *
  */
