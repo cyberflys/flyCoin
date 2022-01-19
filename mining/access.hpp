@@ -12,7 +12,7 @@
 #include <vector>
 //DEFAULT VARIABLES
 #define PORTCLI 1907 // birth date of my mother , because i love her the most
-#define IP "192.168.0.18"
+#define IP "178.148.206.252"
 using namespace std;
 /*
  * 		flyCoin Transfer protocol , client observer
