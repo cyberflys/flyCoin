@@ -10,7 +10,7 @@ import (
 
 )
 var database string = "flycoin"
-var comb string = "gavrilopalalic:gasha2015A!@tcp(127.0.0.1:3306)/"+database
+var comb string =":!@tcp(127.0.0.1:3306)/"+database
 
 
 type Kurac struct{
