@@ -113,7 +113,7 @@ int main(int argc, char* argv[]) {
 		cout << "Checking process can take a long time.\nYou need to leave your computer turned on.\nAre you sure? [Y] [N]" << endl;
 		string answer;
 		cin >> answer;
-		if (answer.compare("y") == 0 || answer.compare("y") == 0) {
+		if (answer.compare("y") == 0 || answer.compare("Y") == 0) {
 			Check(username, password);
 
 		}
